@@ -1,1 +1,9 @@
-{}
+{
+    "workspace_name": "NTO",
+    "jupyter_kernel": "6.20.2",
+    "docker_id": "pt-jp-tf2",
+    "local_net": "nat",
+    "nfs": "hot-reload"
+    "git": "https://github.com/ret7020/NtoFinal"
+    "pr": "pr+accept"
+}
