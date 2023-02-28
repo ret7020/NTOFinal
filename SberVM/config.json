@@ -5,5 +5,10 @@
     "local_net": "nat",
     "nfs": "hot-reload"
     "git": "https://github.com/ret7020/NtoFinal"
-    "pr": "pr+accept"
+    "pr": "pr+accept",
+    "gpu_count": 1,
+    "cpu_type": "xeon_base_released",
+    "cuda": "11.1",
+    "gpu": "a100-80"
+
 }

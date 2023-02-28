@@ -50,6 +50,6 @@ for epoch in range(num_epochs):
         optimizer.step()
 
         # Print training progress
-        if (i+1) % 100 == 0:
+        if (i + 1) % 100 == 0:
             print(f"Epoch [{epoch+1}/{num_epochs}], Step [{i+1}/{len(dataloader)}], Loss: {loss.item():.4f}")
 
