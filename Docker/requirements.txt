@@ -1,0 +1,10 @@
+einops==0.3.2
+timm==0.4.12
+rich
+transformers
+git+https://github.com/openai/CLIP.git
+albumentations
+opencv-python==4.5.5.64
+bitsandbytes
+more_itertools
+argostranslate
